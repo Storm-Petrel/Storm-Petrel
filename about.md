@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="assets/images/about.jpg" width="600">
+<img src="https://github.com/tiagovalenca/Storm-Petrel/blob/master/assets/images/about.jpg" width="600">
 
 A Storm Petrel é uma startup criada por alunos de Ciência da Computação da
 C.E.S.A.R. School para o desenvolvimento de soluções de software para automoveis.
