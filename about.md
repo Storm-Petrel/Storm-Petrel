@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<amp-img width="600" height="300" src="/assets/images/about.jpg"></amp-img>
+<amp-img width="600" height="300" src="Storm-Petrel/assets/images/about.jpg"></amp-img>
 
 A Storm Petrel é uma startup criada por alunos de Ciência da Computação da
 C.E.S.A.R. School para o desenvolvimento de soluções de software para automoveis.
