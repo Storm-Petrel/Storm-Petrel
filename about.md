@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="https://raw.githubusercontent.com/tiagovalenca/Storm-Petrel/master/assets/images/about.jpg" width="400">
 
-A Storm Petrel é uma startup criada por alunos de Ciência da Computação da
+A Storm Petrel é uma startup criada por alunos de Ciência da Computação e Design da
 C.E.S.A.R. School para o desenvolvimento de soluções de software para automoveis.
 Atualmente a startup trabalha em um projeto para a empresa Wings Acessórios. 
 
