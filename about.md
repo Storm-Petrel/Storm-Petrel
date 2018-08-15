@@ -13,4 +13,4 @@ Atualmente a startup trabalha em um projeto para a empresa Wings Acessórios.
 A origem do nome Storm Petrel vem do poema do escritor russo Maxim Gorki - "The Song of
 the Stormy Petrel". O poema conta a história de um passáro que voa contra a tempestade
 quando todos os outros se escondem com medo. E esse é o espírito que a nossa startup
-almeja inovação constante sem medo de abraçar as mudanças que o tempo traz.
+almeja, inovação constante sem medo de abraçar as mudanças que o tempo traz.
