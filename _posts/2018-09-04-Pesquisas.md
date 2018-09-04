@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/research.jpg'
 title: Primeiras Pesquisas
-date: 2018-08-15 21:00:00
+date: 2018-09-04 21:00:00
 tags: pesquisa
 author: tiagovalenca
 ---
