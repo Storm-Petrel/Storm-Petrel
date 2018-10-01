@@ -6,7 +6,7 @@ tiagovalenca:
   url: www.facebook.com/tiago.valenca.5
   bio: Estudante de Ciência da Computação da CESAR School e poeta nas horas vagas
   assets: assets/images/tiagovalenca.jpg
-krishna:
+jvbravoo:
   username: jvbravoo
   name: João Victor Bravo Montarroios
   location: Recife
@@ -14,3 +14,11 @@ krishna:
   url: https://www.facebook.com/joaovictor.bravo.7
   bio: Estudante de Ciência da computação da CESAR School
   assets: assets/images/20729333_1288952787894401_4490988667458982505_n.jpg
+leorodrigues:
+  username: leorodrigues
+  name: Leonardo Rodrigues de Albuquerque
+  location: Recife
+  url_full: https://www.twitter.com/leon13344
+  url: www.twitter.com/leon13344
+  bio: Estudante de Design da CESAR School
+  assets: assets/images/leorodrigues.jpeg
